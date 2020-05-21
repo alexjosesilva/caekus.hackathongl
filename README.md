@@ -1,10 +1,5 @@
-# hackathoncointerweb
-CRM para hackathon versão online para gerenciamento dos concertos.
+# Caekus
+## Inteligencia juridica - Traduzir documentos juridicos com auxilio de IA
 
-Projeto
-	#Cadastrar Usuarios: tecnicos, supervisores, adminitrador do sistema, clientes
-	#Cadastrar Maquinas:
-	#Cadastrar Manuais:
-	#Relatorios Metricas
-	#Dasboard para visualizar as ultima manutenções
-	#Menu adminitrador
+
+* Solução Mobile com objetivo auxiliar clientes a entender documentos juridicos com linguagem técnica
