@@ -1,4 +1,4 @@
-# Caekus
+# Caecus
 ## Inteligencia juridica - Traduzir documentos juridicos com auxilio de IA
 
 
